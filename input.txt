@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<alphabets>
+ <letter>A</letter>
+ <letter>B</letter>
+ <letter>C</letter>
+ <letter>D</letter>
+ <letter>E</letter>
+</alphabets>
